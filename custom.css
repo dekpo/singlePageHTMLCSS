@@ -5,3 +5,6 @@
     background-size: cover;
     background-attachment: fixed;
 }
+.img-fluid{
+    width: 100%;
+}
